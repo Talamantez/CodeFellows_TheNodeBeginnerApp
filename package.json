@@ -1,0 +1,10 @@
+{
+    "name": "CodeFellows_theNodeBeginnerApp",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-concat": "~0.4.0",
+        "jshint": "2.5.0",
+        "grunt-contrib-jshint": "~0.10.0"
+    }
+}
